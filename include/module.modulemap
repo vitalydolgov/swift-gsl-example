@@ -1,0 +1,3 @@
+module Math {
+  header "math.h"
+}
